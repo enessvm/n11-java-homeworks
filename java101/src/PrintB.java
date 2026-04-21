@@ -1,4 +1,4 @@
-public class printB {
+public class PrintB {
     public static void main(String[] args) {
 
         String[][] letter = new String[7][4];
